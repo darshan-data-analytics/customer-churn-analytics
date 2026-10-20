@@ -4,6 +4,12 @@
 
 This project analyzes customer churn using a sample dataset to identify patterns associated with customer retention and churn. The analysis uses Excel/Google Sheets for data cleaning, exploratory analysis, churn-rate comparisons, and dashboard reporting.
 
+
+## Dashboard Preview
+
+![Customer Churn Analysis Dashboard](Dashboard_Screenshot.png)
+
+
 ## Business Objective
 
 Understand which customer segments show higher churn rates and identify potential areas where a business could investigate retention improvements.
