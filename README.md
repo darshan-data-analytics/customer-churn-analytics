@@ -46,6 +46,33 @@ The original dataset contained 1,825 rows. After removing 17 exact duplicate row
 
 These findings are descriptive associations, not proof of causation. Small groups should be interpreted cautiously.
 
+
+## Business Recommendations and Next Steps
+
+### 1. Investigate Annual Contract Churn
+Annual contracts showed a 31.39% observed churn rate, compared with 26.95% for quarterly contracts. Investigate renewal experiences, customer expectations, and reasons for cancellation before deciding on retention actions.
+
+### 2. Review Premium Plan Retention
+The Premium plan showed a 32.18% observed churn rate, higher than Basic at 28.38%. Examine plan value, feature adoption, pricing expectations, and customer feedback to understand the difference.
+
+### 3. Improve the Customer Experience
+The low-satisfaction group showed a higher observed churn rate than the moderate- and high-satisfaction groups. Review feedback and support interactions to identify service improvements.
+
+### 4. Investigate Repeated Complaints
+Records with four or more complaints showed elevated churn rates, but the number of records in these groups was small. Validate this pattern with more data before prioritizing interventions.
+
+### 5. Measure Retention Outcomes
+After implementing any retention initiative, compare churn rates before and after the change, using consistent definitions and comparable customer groups.
+
+### Suggested Follow-up Analysis
+- Analyze churn by signup cohort and time period.
+- Compare satisfaction, support interactions, and churn across customer segments.
+- Validate unresolved churn statuses and unusual tenure values.
+- Confirm whether records represent distinct customers before reporting customer-level churn rates.
+
+**Important:** These recommendations are hypotheses for further investigation. The current analysis identifies associations and does not establish causation.
+
+
 ## Data Quality Limitations
 
 - Twenty-nine records have unresolved `Yes` or `No` churn-status values. These were excluded from the preliminary churn-rate calculations.
