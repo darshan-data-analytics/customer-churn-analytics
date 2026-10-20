@@ -7,7 +7,7 @@ This project analyzes customer churn using a sample dataset to identify patterns
 
 ## Dashboard Preview
 
-![Customer Churn Analysis Dashboard](Dashboard_Screenshot.png)
+![Customer Churn Analysis Dashboard](dashboard_.screenshot.png)
 
 
 ## Business Objective
